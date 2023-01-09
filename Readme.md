@@ -1,5 +1,5 @@
 # CoolMap
-> Outline a brief description of your project. Project was made of a purpose of passing university classes
+> The CoolMap shows location and basic information about the city that you have entered. Project was made of a purpose of passing university classes. Project is in master branch.
 
 
 ## Table of Contents
@@ -25,8 +25,6 @@
 
 ## Technologies Used
 - Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
 
 ## Features
@@ -36,8 +34,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](https://gyazo.com/5a48679370736a7b8f8e411be392e5c3)
-<!-- If you have screenshots you'd like to share, include them here. -->
+[image](https://user-images.githubusercontent.com/79582664/211251547-804820d5-682e-45d4-b673-2a9c2c25100b.png)
 
 
 ## Setup
@@ -60,18 +57,15 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. 
+Project is:  _complete_. 
 
 ## Room for Improvement
 <!--Include areas you believe need improvement / could be improved. Also add TODOs for future development.-->
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
 
 
 
